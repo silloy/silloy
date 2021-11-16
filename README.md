@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://arturssmirnovs.github.io/github-profile-readme-generator/
-
+### Hi there 👋, my name is hua
 -->
 
-
-### Hi there 👋, my name is hua
+### སྐུ་ཁམས་བཟང་། 🙏, my name is hua
 
 Skills: Java / Go / Python / SQL
 
