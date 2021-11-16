@@ -19,7 +19,6 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 
 ### Hi there 👋, my name is hua
-One Coder Who is Going Astray.
 
 Skills: Java / Go / Python / SQL
 
