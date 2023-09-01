@@ -25,7 +25,7 @@ Skills: Java / Go / Python / SQL
 - 💬 Ask me about Java / Spring / Go / Data.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C417%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C426%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
@@ -68,26 +68,26 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     22 hrs 22 mins      ████████████████░░░░░░░░░   62.02 % 
-Python                   4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-SQL                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-XML                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Java                     23 hrs 31 mins      ███████████████░░░░░░░░░░   61.00 % 
+Python                   4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Other                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+JSON                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-IntelliJ                 25 hrs 46 mins      ██████████████████░░░░░░░   71.46 % 
-VS Code                  9 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-DataGrip                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+IntelliJ                 27 hrs 20 mins      ██████████████████░░░░░░░   70.89 % 
+VS Code                  10 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+DataGrip                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-data-analysis            15 hrs 12 mins      ███████████░░░░░░░░░░░░░░   42.16 % 
-metric-grid_v1           9 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-data-copilot             6 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-xzg                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-YqslConsice              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+data-analysis            13 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   34.44 % 
+metric-grid_v1           12 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   31.69 % 
+data-copilot             6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+xzg                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+python-note              1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 💻 Operating System: 
-Mac                      36 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      38 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -103,7 +103,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2023 18:32:11 UTC
+ Last Updated on 01/09/2023 18:31:57 UTC
 <!--END_SECTION:waka-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/silloy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/silloy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/silloy.me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/susilloy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Silloy09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://silloy.me)  
