@@ -50,4 +50,4 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silloy&show_icons=true&locale=en" alt="silloy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silloy&" alt="silloy" /></p>
+
