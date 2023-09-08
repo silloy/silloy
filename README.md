@@ -23,6 +23,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silloy&" alt="silloy" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silloy" alt="silloy" /></a> </p>
 -->
 
 <h1 align="center">Hi 👋, I'm Hua</h1>
@@ -30,7 +31,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silloy&label=Profile%20views&color=0e75b6&style=flat" alt="silloy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silloy" alt="silloy" /></a> </p>
+
 
 - 🌱 I’m currently learning **TypeScript,Python ...**
 
