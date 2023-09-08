@@ -31,7 +31,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silloy&label=Profile%20views&color=0e75b6&style=flat" alt="silloy" /> </p>
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🌱 I’m currently learning **TypeScript,Python ...**
 
