@@ -17,13 +17,6 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 ### Hi there 👋, my name is hua
 -->
 
-### སྐུ་ཁམས་བཟང་། 🙏, my name is hua
-
-Skills: Java / Go / Python / SQL
-
-- 🔭 I’m currently working on development work.
-- 💬 Ask me about Java / Spring / Go / Data.
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C453%20hrs%2039%20mins-blue)
 
