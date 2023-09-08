@@ -46,7 +46,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=silloy&show_icons=true&locale=en" alt="silloy" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silloy&show_icons=true&locale=en&layout=compact" alt="silloy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silloy&show_icons=true&locale=en" alt="silloy" /></p>
 
 
 
