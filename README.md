@@ -24,6 +24,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silloy&" alt="silloy" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silloy" alt="silloy" /></a> </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=silloy&show_icons=true&locale=en&layout=compact" alt="silloy" /></p>
 -->
 
 <h1 align="center">Hi 👋, I'm Hua</h1>
@@ -46,7 +47,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=silloy&show_icons=true&locale=en" alt="silloy" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=silloy&show_icons=true&locale=en&layout=compact" alt="silloy" /></p>
+
 
 
 
