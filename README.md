@@ -46,7 +46,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 ---
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=silloy&show_icons=true&locale=en" alt="silloy" /></p>
-<p>&nbsp;<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
+<p>&nbsp;<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" /></p>
 
 
 
