@@ -78,20 +78,10 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 </p>
 
 ## ⌥ &nbsp;Let's Connect
-
-[![](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue)](https://silloy.xyz)
-[![](https://img.shields.io/badge/github-silloy?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/silloy)
 [![](https://img.shields.io/badge/gmail-silloy?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](mailto:sshzh90@gmail.com)
-[![](https://img.shields.io/badge/twitter-silloy.svg?style=for-the-badge&logo=x&logoColor=white&color=blue)](https://twitter.com/silloysu)
-
-
-<p align="center">
-[![](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue)](https://silloy.xyz)
 [![](https://img.shields.io/badge/github-silloy?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/silloy)
-[![](https://img.shields.io/badge/gmail-silloy?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](mailto:sshzh90@gmail.com)
 [![](https://img.shields.io/badge/twitter-silloy.svg?style=for-the-badge&logo=x&logoColor=white&color=blue)](https://twitter.com/silloysu)
-
-</p>
+[![](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue)](https://silloy.xyz)
 
 
 
