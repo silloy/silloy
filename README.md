@@ -41,9 +41,9 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently learning **TypeScript,Python ...**
+- 🌱 I’m currently learning **TypeScript,Python**
 
-- 📝 I regularly write articles on [https://silloy.xyz/](https://silloy.xyz/)
+- 📝 I regularly write articles on [silloy.xyz](https://silloy.xyz/)
 
 - 💬 Ask me about **Java, Python, Data Modeling**
 
