@@ -81,8 +81,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <p align="center">
   <a href="https://silloy.xyz/"><img src="https://pics.freeicons.io/uploads/icons/png/14030413511600774579-32.png" alt="Website"/></a>
 	<a href="mailto:sshzh90@gmail.com"><img src="https://pics.freeicons.io/uploads/icons/png/6781620541530103308-32.png" alt="Gmail"/></a>
-	<a href="https://github.com/silloy"><img src="https://pics.freeicons.io/uploads/icons/png/3842828341530103314-32.png" alt="GitHub"/></a>
-	<a href="https://twitter.com/silloysu"><img src="https://pics.freeicons.io/uploads/icons/png/3888892041530103327-32.png" alt="Twitter"/></a>
+	<a href="https://github.com/silloy"><img src="https://img.shields.io/github/followers/jeelpatel1612.svg?label=GitHub&style=social" alt="GitHub"/></a>
+	<a href="https://twitter.com/silloysu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 
