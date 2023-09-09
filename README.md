@@ -78,8 +78,11 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 </p>
 
 ## ⌥ &nbsp;Let's Connect
-<p align="center">
+
 ![Static Badge](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue&link=https%3A%2F%2Fsilloy.xyz)
+
+<p align="center">
+
 
   <a href="https://silloy.xyz/"><img src="https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue
 " alt="Website"/></a>
