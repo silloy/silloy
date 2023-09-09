@@ -79,10 +79,10 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ## ⌥ &nbsp;Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:sshzh90@gmail.com"><img src="https://pics.freeicons.io/uploads/icons/png/6781620541530103308-128.png" alt="Gmail"/></a>
-	<a href="https://github.com/silloy"><img src="https://pics.freeicons.io/uploads/icons/png/3842828341530103314-128.png" alt="GitHub"/></a>
-	<a href="https://twitter.com/silloysu"><img src="https://pics.freeicons.io/uploads/icons/png/3888892041530103327-128.png" alt="Twitter"/></a>
+  <a href="https://silloy.xyz/"><img src="https://pics.freeicons.io/uploads/icons/png/14030413511600774579-64.png" alt="Website"/></a>
+	<a href="mailto:sshzh90@gmail.com"><img src="https://pics.freeicons.io/uploads/icons/png/6781620541530103308-64.png" alt="Gmail"/></a>
+	<a href="https://github.com/silloy"><img src="https://pics.freeicons.io/uploads/icons/png/3842828341530103314-64.png" alt="GitHub"/></a>
+	<a href="https://twitter.com/silloysu"><img src="https://pics.freeicons.io/uploads/icons/png/3888892041530103327-64.png" alt="Twitter"/></a>
 </p>
 
 
