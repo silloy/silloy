@@ -88,7 +88,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 " alt="Gmail"/></a>
 	<a href="https://github.com/silloy"><img src="https://img.shields.io/badge/github-silloy?style=for-the-badge&logo=github&logoColor=white&color=blue
 " alt="GitHub"/></a>
-	<a href="https://twitter.com/silloysu"><img src="https://img.shields.io/badge/twitter-silloy.svg?style=for-the-badge&logo=x&logoColor=white&color=blue
+	<a href="https://twitter.com/silloysu"><img src="https://img.shields.io/badge/twitter-silloy.svg?style=for-the-badge&logo=x&logoColor=white&color=blue&link=https%3A%2F%2Fsilloy.xyz
 " alt="Twitter"/></a>
 </p>
 
