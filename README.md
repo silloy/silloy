@@ -25,6 +25,9 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silloy&" alt="silloy" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silloy" alt="silloy" /></a> </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=silloy&show_icons=true&locale=en&layout=compact" alt="silloy" /></p>
+<p>&nbsp;<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=silloy&show_icons=true&locale=en" alt="silloy" /></p>
+<h3 align="left">Languages and Tools:</h3>
 -->
 
 <h1 align="center">Hi 👋, I'm Hua</h1>
@@ -40,7 +43,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 - 💬 Ask me about **Java, Python, Data Modeling**
 
-<h3 align="left">Languages and Tools:</h3>
+### ⚙️ &nbsp;Languages and Tools
+
 <p align="left"> 
   <a href="https://www.java.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -61,9 +65,14 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ---
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=silloy&show_icons=true&locale=en" alt="silloy" /></p>
-<p>&nbsp;<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" /></p>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silloy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silloy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
