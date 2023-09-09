@@ -80,18 +80,17 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 ## ⌥ &nbsp;Let's Connect
 
 [![](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue)](https://silloy.xyz)
+[![](https://img.shields.io/badge/github-silloy?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/silloy)
+[![](https://img.shields.io/badge/gmail-silloy?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](mailto:sshzh90@gmail.com)
+[![](https://img.shields.io/badge/twitter-silloy.svg?style=for-the-badge&logo=x&logoColor=white&color=blue)](https://twitter.com/silloysu)
 
-![silloy.xyz](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue&link=https%3A%2F%2Fsilloy.xyz)
 
 <p align="center">
+[![](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue)](https://silloy.xyz)
+[![](https://img.shields.io/badge/github-silloy?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/silloy)
+[![](https://img.shields.io/badge/gmail-silloy?style=for-the-badge&logo=gmail&logoColor=white&color=blue)](mailto:sshzh90@gmail.com)
+[![](https://img.shields.io/badge/twitter-silloy.svg?style=for-the-badge&logo=x&logoColor=white&color=blue)](https://twitter.com/silloysu)
 
-
-	<a href="mailto:sshzh90@gmail.com"><img src="https://img.shields.io/badge/gmail-silloy?style=for-the-badge&logo=gmail&logoColor=white&color=blue
-" alt="Gmail"/></a>
-	<a href="https://github.com/silloy"><img src="https://img.shields.io/badge/github-silloy?style=for-the-badge&logo=github&logoColor=white&color=blue
-" alt="GitHub"/></a>
-	<a href="https://twitter.com/silloysu"><img src="https://img.shields.io/badge/twitter-silloy.svg?style=for-the-badge&logo=x&logoColor=white&color=blue&link=https%3A%2F%2Fsilloy.xyz
-" alt="Twitter"/></a>
 </p>
 
 
