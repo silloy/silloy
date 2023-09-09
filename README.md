@@ -37,13 +37,15 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+### 👨🏻‍💻 &nbsp;About Me
+
 - 🌱 I’m currently learning **TypeScript,Python ...**
 
 - 📝 I regularly write articles on [https://silloy.xyz/](https://silloy.xyz/)
 
 - 💬 Ask me about **Java, Python, Data Modeling**
 
-### ⚙️ &nbsp;Languages and Tools
+### 🛠 &nbsp;Tech Stack
 
 <p align="left"> 
   <a href="https://www.java.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
