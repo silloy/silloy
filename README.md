@@ -79,6 +79,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ## ⌥ &nbsp;Let's Connect
 
+[![](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue)](https://silloy.xyz)
+
 ![silloy.xyz](https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue&link=https%3A%2F%2Fsilloy.xyz)
 
 <p align="center">
