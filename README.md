@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://arturssmirnovs.github.io/github-profile-readme-generator/
-### Hi there 👋, my name is hua
+### Hi there 👋
 -->
 
 <!--START_SECTION:waka-->
