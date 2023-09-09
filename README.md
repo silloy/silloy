@@ -79,10 +79,14 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ## ⌥ &nbsp;Let's Connect
 <p align="center">
-  <a href="https://silloy.xyz/"><img src="https://pics.freeicons.io/uploads/icons/png/14030413511600774579-32.png" alt="Website"/></a>
-	<a href="mailto:sshzh90@gmail.com"><img src="https://pics.freeicons.io/uploads/icons/png/6781620541530103308-32.png" alt="Gmail"/></a>
-	<a href="https://github.com/silloy"><img src="https://img.shields.io/github/followers/silloy?label=GitHub&style=social" alt="GitHub"/></a>
-	<a href="https://twitter.com/silloysu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://silloy.xyz/"><img src="https://img.shields.io/badge/www-silloy?style=for-the-badge&logo=www&logoColor=white&color=blue
+" alt="Website"/></a>
+	<a href="mailto:sshzh90@gmail.com"><img src="https://img.shields.io/badge/gmail-silloy?style=for-the-badge&logo=gmail&logoColor=white&color=blue
+" alt="Gmail"/></a>
+	<a href="https://github.com/silloy"><img src="https://img.shields.io/badge/github-silloy?style=for-the-badge&logo=github&logoColor=white&color=blue
+" alt="GitHub"/></a>
+	<a href="https://twitter.com/silloysu"><img src="https://img.shields.io/badge/twitter-silloy?style=for-the-badge&logo=x&logoColor=white&color=blue
+" alt="Twitter"/></a>
 </p>
 
 
