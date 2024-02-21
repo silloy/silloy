@@ -67,6 +67,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 </p>
 
 ---
+### TL;DR
 
 ### ⚙️ &nbsp;GitHub Analytics
 
